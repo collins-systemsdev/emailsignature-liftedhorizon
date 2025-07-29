@@ -6,7 +6,9 @@ The HTML for Lifted Horizon company-wide email signature.
 
 ## Setup Process
 
-The process of setting up an email signature using this theme is outlined in the following steps:
+The process of setting up an email signature using this theme is outlined in the following steps. *You can also watch the video to see the process in practice.*:
+
+[![Watch the video](https://img.youtube.com/vi/TEL_a0owTBE/0.jpg)](https://www.youtube.com/watch?v=TEL_a0owTBE)
 
 **Note:** It is assumed thay you already have your email account created on webmail.
 
