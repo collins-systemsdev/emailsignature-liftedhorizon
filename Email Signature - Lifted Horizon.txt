@@ -3,18 +3,17 @@
 <table>
 <tbody>
 <tr>
-<td>
-<p><a style="text-decoration: none;" title="Lifted Horizon Nigeria Limited" href="https://liftedhorizonng.com/" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://liftedhorizon.co.uk/liftedhorizon.png" alt="Lifted Horizon Logo" width="100" height="43" /></a></p>
+<td style="vertical-align: top;"><a style="text-decoration: none;" title="Lifted Horizon Nigeria Limited" href="https://liftedhorizon.co.uk/liftedhorizon.png/" rel="noopener"><img style="display: block; margin: 2px auto auto auto;" src="https://liftedhorizon.co.uk/liftedhorizon.png" alt="Lifted Horizon Logo" width="85" height="38" /></a>
 <p style="text-align: left;"><span style="font-family: 'book antiqua', palatino, serif; font-size: 10pt;"> </span></p>
 </td>
-<td style="width: 30px;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
 <td><strong>LIFTED HORIZON NIGERIA LIMITED<br /></strong><span style="font-family: 'book antiqua', palatino, serif; font-size: 10pt; color: #000000;"><strong><span style="font-weight: 400;">Oluwalogbon House, Plot A, Awolowo Way, Alausa, Ikeja, Lagos.</span></strong></span>
 <p style="text-align: left;"><span style="font-family: 'book antiqua', palatino, serif; font-size: 10pt;"><span style="color: #236fa1;"><span style="color: #3598db;">☎</span><span style="color: #000000;">+234 811 411 6934 | </span></span><span style="color: #236fa1;"><span style="color: #3598db;">✉</span><span style="color: #000000;">info</span><span style="color: #000000;">@liftedhorizonng.com | </span></span><span style="color: #236fa1;"><span style="font-size: 9pt;">🌐</span><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;"><a style="color: #000000; text-decoration: underline;" title="Lifted Horizon" href="https://liftedhorizonng.com/" rel="noopener">www.liftedhorizonng.com</a></span></span></span></span></p>
 </td>
 </tr>
 <tr>
 <td colspan="2">&nbsp;</td>
-<td style="vertical-align: top;"><a title="Lifted Horizon Facebook Page" href="https://web.facebook.com/liftedhorizonng" rel="noopener"><img style="margin-right: 8px; margin-top: 3px;" src="https://liftedhorizon.co.uk/facebook.png" alt="Facebook" width="43" height="46" /></a> <a title="Lifted Horizon Instagram Page" href="https://instagram.com/liftedhorizonng" rel="noopener"><img style="margin-right: 8px;" src="https://liftedhorizon.co.uk/instagram.png" alt="Facebook" width="43" height="43" /></a> <a title="Lifted Horizon X (Twitter) Page" href="https://x.com/liftedhorizonng" rel="noopener"><img style="margin-right: 8px;" src="https://liftedhorizon.co.uk/x.png" alt="Facebook" width="43" height="43" /></a> <a title="Lifted Horizon Linkedin Page" href="https://www.linkedin.com/company/liftedhorizon/about/?viewAsMember=true" rel="noopener"><img style="margin-right: 8px;" src="https://liftedhorizon.co.uk/linkedin.png" alt="Facebook" width="43" height="43" /></a></td>
+<td style="vertical-align: top;"><a title="Lifted Horizon Facebook Page" href="https://web.facebook.com/liftedhorizonng" rel="noopener"><img style="margin-right: 8px; margin-top: 3px;" src="https://liftedhorizon.co.uk/facebook.png" alt="Facebook" width="43" height="46" /></a> <a title="Lifted Horizon Instagram Page" href="https://instagram.com/liftedhorizonng" rel="noopener"><img style="margin-right: 8px;" src="https://liftedhorizon.co.uk/instagram.png" alt="Instagram" width="43" height="43" /></a> <a title="Lifted Horizon X (Twitter) Page" href="https://x.com/liftedhorizonng" rel="noopener"><img style="margin-right: 8px;" src="https://liftedhorizon.co.uk/x.png" alt="X (Twitter)" width="43" height="43" /></a> <a title="Lifted Horizon Linkedin Page" href="https://www.linkedin.com/company/liftedhorizon/about/?viewAsMember=true" rel="noopener"><img style="margin-right: 8px;" src="https://liftedhorizon.co.uk/linkedin.png" alt="Linkedin" width="43" height="43" /></a></td>
 </tr>
 </tbody>
 </table>
