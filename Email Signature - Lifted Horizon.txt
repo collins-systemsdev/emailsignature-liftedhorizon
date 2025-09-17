@@ -1,4 +1,4 @@
-<p><strong><span style="font-size: 14pt;">Collins Igeh</span></strong><br /><strong><span style="color: #236fa1;">System Developer</span></strong></p>
+<p><strong><span style="font-size: 14pt;">John Doe</span></strong><br /><strong><span style="color: #236fa1;">System Developer<br /></span></strong><span style="color: #236fa1; font-family: verdana, geneva, sans-serif; font-size: 9pt;"><span style="color: #3598db;">☎</span><span style="color: #000000;">&nbsp;+234 (0) 812 345 6789<br /><span style="color: #236fa1;"><span style="color: #3598db;">✉</span><span style="color: #000000;">&nbsp;john.doe</span><span style="color: #000000;">@liftedhorizonng.com</span></span></span></span><strong><span style="color: #236fa1;"><br /></span></strong><span style="color: #236fa1;"></span></p>
 <hr />
 <table>
 <tbody>
